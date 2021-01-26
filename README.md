@@ -1,4 +1,4 @@
-# saufi?
+# saufe?
 This is the Code for the perfectly programmed website [Hab ich Saufi gehört?](http://www.hab-ich-saufi-gehoert.de). It is a german drinking game that calculates if you heard saufi or not. The website also has shows extra tasks that you have to do. 
 
 ## Project setup
